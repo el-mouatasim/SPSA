@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Implementing Yann LeCun's LeNet-5 in PyTorch
+# # Implementing SPSA for LeNet-5 in PyTorch
 
 # ## Setup
 
