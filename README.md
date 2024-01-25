@@ -1,6 +1,5 @@
 # SPSA
 Official pytorch implementation of the paper: 
-A. El Mouatasim, R. Ellaia and J.E. Souza de Cursi. Stochastic Perturbation of Subgradient Algorithm for Nonconvex Deep Neural Networks. 
-Computational and Applied Mathematics, to appear, 2022.
+El Mouatasim, A., de Cursi, J.E.S. & Ellaia, R. Stochastic perturbation of subgradient algorithm for nonconvex deep neural networks. Comp. Appl. Math. 42, 167 (2023). https://doi.org/10.1007/s40314-023-02307-9
 
 Please download a MNIST dataset and put it in folder ../data
